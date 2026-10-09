@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-My Focus Areas
+## My Focus Areas
 - Web Development
 - Cloud Computing
 - Open Source Projects
 
 
-GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/zaanzz">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaanzz&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="zaanzz's GitHub Stats" />
