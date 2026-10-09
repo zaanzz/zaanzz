@@ -82,7 +82,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="mailto:h72225656@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
